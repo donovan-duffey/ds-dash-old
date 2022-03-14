@@ -1,0 +1,14 @@
+body {
+    /* background-color: #5C5F58; */
+    background-color: #164A41;
+}
+
+.content-container {
+    height: 100vh;
+}
+
+.brand-logo {
+    width: 200px;
+    height: 80px;
+    object-fit: cover;
+}
